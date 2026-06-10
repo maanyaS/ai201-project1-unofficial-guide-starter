@@ -12,7 +12,15 @@
 My system covers reviews and information regarding Computer Science professors at Rutgers University New Brunswick. My source will be able to answer questions regarding whether a professor is good at teaching and guarantees student success and vice versa. This knowledge is valuable, since there is no official Rutgers website that provides information regarding professors and their corresponding students' success.
 
 ---
-
+<div>
+    <a href="https://www.loom.com/share/6caba1124b9c4d21933902c10e2f81d5">
+      <p>Videos | Library | Loom - 10 June 2026 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/6caba1124b9c4d21933902c10e2f81d5">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/6caba1124b9c4d21933902c10e2f81d5-f46aeaea8f310d39-full-play.gif#t=0.1">
+    </a>
+  </div>
+  
 ## Document Sources
 
 | # | Source | Type | URL or file path |
