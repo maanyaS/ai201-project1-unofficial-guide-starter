@@ -13,7 +13,7 @@
      Why is this knowledge valuable, and why is it hard to find through official channels?
      Example: "Student reviews of CS professors at [university] — useful because official
      course descriptions don't reflect teaching style, exam difficulty, or workload." -->
-
+My system covers reviews and information regarding Computer Science professors at Rutgers University New Brunswick. My source will be able to answer questions regarding whether a professor is good at teaching and guarantees student success and vice versa. This knowledge is valuable, since there is no official Rutgers website that provides information regarding professors and their corresponding students' success.
 ---
 
 ## Document Sources
