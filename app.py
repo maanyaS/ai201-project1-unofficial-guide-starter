@@ -43,6 +43,7 @@ with gr.Blocks(title="Unofficial Guide to Rutgers CS Professors") as demo:
     - What do students say about Menendez's exams?
     - Which professor gives the most useful feedback?
     - What is Ananda Gunawardena's teaching style like?
+    - What do students say about Rajiv Gandhi's teaching pace?
     """)
 
     with gr.Row():
