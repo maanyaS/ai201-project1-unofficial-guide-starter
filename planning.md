@@ -52,11 +52,13 @@ https://www.ratemyprofessors.com/professor/2925139 — John Blackmore
      numbers fit the structure of your documents.
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
-**Chunk size:300-500 characters**
+**Chunk size:500 characters**
 
-**Overlap: 50-75 characters**
+**Overlap: 75 characters**
  
 **Reasoning: Each review is only one-four sentences long. In a chunk size of 300-500 characters, one or two reviews will be fit in. If a review got separated into 2 chunks, an overlap of 50-75 characters allows for context from the first chunk of the review to be accounted for.**
+
+Changes made: The range 300–500 was narrowed to a fixed 500 during implementation, since code requires a single cutoff value. 500 was chosen as the upper bound to avoid splitting short reviews unnecessarily. 1 review = 1 chunk. This is the primary strategy. In the case that the reviews are really long, 500 characters is the fallback.
 
 ---
 
