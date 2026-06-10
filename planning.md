@@ -91,7 +91,7 @@ If cost wasn't a constraint, I'd weigh accuracy on short informal text as RMP re
 | 1 | What do students say about Menendez's exams in CS214?| Exams are conceptual and trivia-based with little coding, and that homeworks are very difficult and heavily weighted|
 | 2 | Which CS professor is most often described as giving good feedback| Abeer Elahraf, who is explicitly tagged "gives good feedback" and praised for being helpful and clear|
 | 3 | Is Tina Burns recommended for CS211?| Yes, students consistently say she's kind, gives lots of extra credit, and makes the course low-stress|
-| 4 | Which CS professor has the lowest "would take again" percentage among the 10 sources?| Casimir Kulikowski at 6% would take again|
+| 4 | What do students say about Rajiv Gandhi's teaching pace? | Students say he moves very quickly through material regardless of whether anyone understands, and his accent makes it harder to follow |
 | 5 | What do students say about Ananda Gunawardena's organization?| Reviews note he is disorganized and uncoordinated but enthusiastic, patient with questions, and good at explaining concepts|
 
 ---
